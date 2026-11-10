@@ -14,7 +14,7 @@ I came to this field from a different direction. My first degree was in airline 
 
 Not whether least privilege helps. Everyone knows it does. **How much** it helps, measured.
 
-Three policy tiers, 100 actions, 12 AWS services, and two metrics defined before any testing started. A narrow policy reached **3.9%** impact-weighted blast radius. A PowerUser-style policy reached **77.6%**. Same identity, same compromise, a twenty-fold difference in consequence, purely from how the policy was written.
+Three policy tiers, 100 actions, 12 AWS services, and two metrics defined before any testing started. A narrow policy reached **3.9%** impact-weighted blast radius. A PowerUser-style policy reached **83.9%**. Same identity, same compromise, a more than twenty-fold difference in consequence, purely from how the policy was written.
 
 The literature review that led to it lives in **[ai-enhanced-attacks-cloud](https://github.com/olafier/ai-enhanced-attacks-cloud)**, built on four 2026 industry threat reports (CSA Top Threats, Google Cloud Threat Horizons, Verizon DBIR, OWASP GenAI Top 10) and one documented supply-chain intrusion.
 
